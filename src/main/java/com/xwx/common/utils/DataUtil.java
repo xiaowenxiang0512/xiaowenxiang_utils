@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * @ClassName:  DataUtil   
  * @Description:日期工具类    
- * @date:   2020年1月3日 上午9:06:21
+ * @date:  
  */
 public class DataUtil {
 	public static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");

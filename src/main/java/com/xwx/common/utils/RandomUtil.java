@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * @ClassName:  RandomUtil   
  * @Description:随机数工具类   
- * @date:   2020年1月3日 上午9:07:35
+ * @date:   2020年1月3日 上午9:07:35 
  */
 public class RandomUtil {
 	/**

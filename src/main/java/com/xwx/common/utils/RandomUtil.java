@@ -1,7 +1,7 @@
 package com.xwx.common.utils;
 
 import java.util.Random;
-
+ 
 /**
  * @ClassName:  RandomUtil   
  * @Description:随机数工具类   

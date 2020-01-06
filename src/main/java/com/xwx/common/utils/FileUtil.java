@@ -151,7 +151,7 @@ public class FileUtil {
 	 * @Description: 读取文本文件到list   
 	 * @param: @param pathname
 	 * @param: @return      
-	 * @return: List<St>      
+	 * @return: List<St>       
 	 * @throws
 	 */
 	public static List<String> readTextFileToList(String pathname){

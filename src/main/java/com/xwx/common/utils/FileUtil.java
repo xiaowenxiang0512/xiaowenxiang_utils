@@ -149,7 +149,7 @@ public class FileUtil {
 	/**
 	 * @Title: readTextFileToList   
 	 * @Description: 读取文本文件到list   
-	 * @param: @param pathname
+	 * @param: @param pathname 
 	 * @param: @return      
 	 * @return: List<St>       
 	 * @throws

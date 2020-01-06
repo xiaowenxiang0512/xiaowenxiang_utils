@@ -3,7 +3,7 @@ package com.xwx.common.utils;
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
 
-/**
+/** 
  * @ClassName:  StringUtil   
  * @Description:字符串工具类      
  * @date:   2020年1月3日 上午9:08:16

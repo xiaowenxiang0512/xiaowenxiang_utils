@@ -1,6 +1,6 @@
 package com.xwx.common.utils;
 
-import java.util.Random;
+import java.util.Random; 
  
 /**
  * @ClassName:  RandomUtil   
